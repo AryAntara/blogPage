@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Roboto&display=swap');
+
+body {
+  font-family: 'Roboto',  sans-serif;
+  background-color:#77777f;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+p {
+  padding: 0px;
+  margin: 0px;
+}
+div.container{
+  max-width: 720px;
+  width: 98%;
+  justify-content: center;
+  padding: 8px;
+  margin: 0 auto;
+  background-color: white;
+  min-height: 100vh;
+}
+div.identity{
+  padding: 8px;
+  margin-top: 0px;
+  margin-bottom: 14px;
+}
+div.content{
+  padding-left: 8px;
+  padding-right: 8px;
+  line-height: 28px;
+  font-weight: normal;
+}
+h1.title {
+  color: rgb(0, 0, 0 );
+  opacity: 1;
+  margin: 0px;
+  margin-bottom: 12px;
+}
+p.author {
+  color: black;
+  opacity: 0.7;
+  margin-bottom: 8px;
+}
+p.date {
+  color: black;
+  opacity: 0.7;
+}
+.content {
+  color: black;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+p.content {
+  color: black;
+}
+img.content{
+  color: black;
+  height: auto;
+  width: 100%;
+  border-radius:4px;
+}
+h2.content{
+  color:black;
+  font-size: 20px;
+}
